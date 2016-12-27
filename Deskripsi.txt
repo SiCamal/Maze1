@@ -1,0 +1,7 @@
+Escape the prison!
+Permainan tentang naripada yang ingin kabur dari penjara yang dijaga penjaga dan mengalahkannya dengan menembak burger ke penjaga, saat membobol pintu ada juga puzzle yang mirip dengan tic tac toe tetapi harus mengisi baris paling bawah dulu sebelum bisa mengisi baris di atasnya. Algotritma probabilitas digunakan untuk peluru yang ditembak penjaga, Algoritma A* digunakan untuk pergerakan penjaga, dan Algoritma minimax untuk lawan tic tac toe.
+
+Control
+-Tombol panah = bergerak
+-Z = menembak
+-Left click = mengisi tic tac toe
